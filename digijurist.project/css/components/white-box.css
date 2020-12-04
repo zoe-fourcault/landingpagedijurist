@@ -1,0 +1,20 @@
+.white-box {
+	display: flex;
+    align-items: center;
+    height: 500px;
+}
+
+.white-box p {
+	text-align: justify;
+	justify-content: space-around;
+	align-items: center;
+	width:500px;
+	color: white;
+}
+
+.white-box img {
+	width: 200px;
+    border-radius: 110px;
+    margin-top: 20px;
+    margin-left: 20px
+}

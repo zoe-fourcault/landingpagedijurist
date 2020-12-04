@@ -1,0 +1,18 @@
+
+.card-grey {
+	margin-left: 10px;
+	flex-direction: column;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	height: 170px;
+	background-color: #647AA3;
+	margin: 20px;
+	width: 200px;
+	border-radius: 30px;
+	box-shadow: 1px 4px 9px rgb(177 174 174);
+}
+
+.card-grey p{
+	color: white;
+}

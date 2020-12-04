@@ -1,0 +1,19 @@
+.footer {
+	display: flex;
+    background-color: #f7f6f7;
+    align-items: center;
+    align-content: center;
+    justify-content: space-between;
+    flex-direction: revert;
+    /* margin-left: 30px; */
+    /* margin-right: 40px; */
+    white-space: nowrap;
+    border-top: 5px solid #334195;
+    margin-top: 40px;
+    padding-left: 20px;
+    padding-right: 40px;
+}
+
+.footer p {
+	color: #334195;
+}

@@ -1,0 +1,12 @@
+
+.nav {
+	display: flex;
+    /* flex-wrap: wrap; */
+    align-content: stretch;
+    justify-content: space-between;
+    flex-direction: revert;
+    align-items: center;
+    background-color:#f7f6f7;
+    padding-left: 30px;
+    padding-right: 30px;
+}
